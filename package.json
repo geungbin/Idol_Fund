@@ -1,0 +1,15 @@
+{
+  "name": "Idol_Fund",
+  "version": "1.0.0",
+  "description": "Idol crowd funding Web using Typescript",
+  "main": "index.js",
+  "author": "geungbin",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "@types/node": "^20.14.11"
+  }
+}
